@@ -1,7 +1,7 @@
 # ui-assignment
 This is a sample website for my ui-assignment
 
-# UI Developer Assignment - First Round
+# UI Developer Assignment 
 
 This project is a UI interface developed for a first-round interview assignment. It adheres to the following requirements:
 
